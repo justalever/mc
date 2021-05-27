@@ -1,0 +1,20 @@
+{
+  "name": "Memberful Community",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "soehne-web-buch": "assets/soehne-web-buch.woff",
+    "soehne-web-dreiviertelfett": "assets/soehne-web-dreiviertelfett.woff",
+    "soehne-web-halbfett": "assets/soehne-web-halbfett.woff"
+  },
+  "color_schemes": {
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
